@@ -1,0 +1,1 @@
+%returnStuff = Len(x) + InStr(y,"a")

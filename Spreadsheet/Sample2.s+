@@ -1,0 +1,39 @@
+0|3|X
+1|4|X
+2|7|=A1+A2
+3|7|=A2+A1
+6|     John's|X
+8|This sheet|X
+9|shows math|X
+10|you can do|X
+11|in JS Sheet+.|X
+12|A1    and    A2|X
+13|are  the  main|X
+14|  numbers,  all|X
+15|the other cells|X
+16|show answers.|X
+33|-1|=A1-A2
+34|1|=A2-A1
+37|   Calculator|X
+64|12|=A1*A2
+65|-12|=-A1*A2
+68|  Spreadsheet|X
+95|0.8|=Round(A1/A2, 1)
+96|1.3|=Round(A2/A1, 1)
+126|5|=Sqr((A1*A1) + (A2*A2))
+127|2.64575131106459|=Sqr((A2*A2)-(A1*A1))
+130|The E row has|X
+131|to do with the|X
+132| pythagorean|X
+133|    therom.|X
+134|E3 is the|X
+135|hypotenus (A1|X
+136|and   A2   are|X
+137|legs).  And  E4|X
+138|is a leg, where|X
+139|A2   is    the|X
+140|hypotenus|X
+141| and  A1  is  a|X
+142|leg.|X
+157|81|=A1^A2
+158|64|=A2^A1
