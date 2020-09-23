@@ -1,0 +1,28 @@
+0|     Put a string|X
+1|Hello!|X
+8|Here's another|X
+9|This    finds|X
+11|Leg 1:|X
+12|Leg 2:|X
+13|Hypotenus:|X
+31|in A2:|X
+35|Look!You can|X
+39| example:|X
+40|the hypotenus|X
+42|3|X
+43|4|X
+44|5|=Sqr((B12*B12)+(B13*B13))
+62|And an integer|X
+63|3|X
+66|put formulas in|X
+71|of a right tri.|X
+93| in C2:|X
+97|just like Excel!|X
+124|E2's formula is|X
+125|lo!|=Right(A2, C2)
+128|  You can use|X
+155|:    =Right(A2,|X
+159|all   the   VB |X
+186|C2)|X
+190|string and int|X
+221|functions too!|X
